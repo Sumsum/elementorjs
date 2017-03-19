@@ -16,14 +16,6 @@
 	
 	"debug": true,
 	
-	// WordPress
-	"boss": true,
-	"es3": true,
-	"expr": true,
-	"nonbsp": true,
-	"onevar": true,
-	"quotmark": "single",
-
 	"globals": {
 		"_": false,
 		//"Backbone": false,
